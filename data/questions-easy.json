@@ -1,0 +1,74 @@
+{
+  "questions-easy": [
+    {
+      "question": "Which planet in our solar system has the most moons?",
+      "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the largest volcano in the solar system?",
+      "options": [
+        "Mount Everest",
+        "Olympus Mons",
+        "Mauna Loa",
+        "Tharsis Montes"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which galaxy is the closest major galaxy to the Milky Way?",
+      "options": ["Andromeda", "Triangulum", "Sombrero", "Whirlpool"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What percentage of the universe is made up of dark matter and dark energy?",
+      "options": ["25%", "50%", "85%", "95%"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+      "options": ["Mars", "Mercury", "Venus", "Jupiter"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the densest planet in the solar system?",
+      "options": ["Saturn", "Neptune", "Earth", "Mars"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What type of star is the Sun?",
+      "options": ["White Dwarf", "Red Giant", "Neutron Star", "Yellow Dwarf"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which moon is the only one in the solar system known to have a thick atmosphere?",
+      "options": ["Titan", "Europa", "Ganymede", "Callisto"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which space telescope has provided some of the most detailed images of deep space?",
+      "options": ["Hubble", "Spitzer", "Kepler", "James Webb"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the hypothetical boundary surrounding a black hole beyond which nothing can escape?",
+      "options": [
+        "Singularity",
+        "Event Horizon",
+        "Accretion Disk",
+        "Photon Sphere"
+      ],
+      "correctOption": 1,
+      "points": 10
+    }
+  ]
+}
