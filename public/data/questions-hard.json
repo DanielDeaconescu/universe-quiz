@@ -1,0 +1,109 @@
+{
+  "questions-hard": [
+    {
+      "question": "What is the estimated mass-energy composition of the universe?",
+      "options": [
+        "99% dark matter, 1% ordinary matter",
+        "27% dark matter, 68% dark energy, 5% ordinary matter",
+        "50% dark energy, 30% dark matter, 20% ordinary matter",
+        "80% dark matter, 10% dark energy, 10% ordinary matter"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which theoretical concept suggests the existence of multiple universes beyond our own?",
+      "options": [
+        "Parallel Dimensions",
+        "Quantum Loop Gravity",
+        "Multiverse Theory",
+        "String Conjecture"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the point in a black hole where gravitational forces become infinite?",
+      "options": [
+        "Event Horizon",
+        "Neutron Limit",
+        "Gravitational Singularity",
+        "Quantum Core"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Which subatomic particle is theorized to make up dark matter?",
+      "options": ["Neutrino", "Photon", "WIMP", "Gluon"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What was the first exoplanet ever discovered orbiting a main-sequence star?",
+      "options": [
+        "Proxima Centauri b",
+        "Kepler-22b",
+        "51 Pegasi b",
+        "HD 209458 b"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What is the largest known structure in the universe?",
+      "options": [
+        "The Milky Way",
+        "The Sloan Great Wall",
+        "The Hercules–Corona Borealis Great Wall",
+        "The Virgo Supercluster"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Which equation describes the probability of finding an electron in a quantum state?",
+      "options": [
+        "Einstein Field Equation",
+        "Schrödinger Equation",
+        "Heisenberg Uncertainty Principle",
+        "Maxwell’s Equations"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What is the term for the hypothetical state before the Big Bang?",
+      "options": [
+        "Quantum Singularity",
+        "Inflation Phase",
+        "Pre-Universe Void",
+        "Planck Epoch"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "What is the speed of gravity according to General Relativity?",
+      "options": [
+        "Instantaneous",
+        "Same as the speed of light",
+        "10x speed of light",
+        "Varies based on mass"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which type of supernova is used to measure cosmic distances?",
+      "options": [
+        "Type I Supernova",
+        "Type II Supernova",
+        "Type Ia Supernova",
+        "Hypernova"
+      ],
+      "correctOption": 2,
+      "points": 20
+    }
+  ]
+}
